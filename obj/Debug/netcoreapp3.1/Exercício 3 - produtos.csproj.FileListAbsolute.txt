@@ -1,0 +1,13 @@
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 3 - produtos\bin\Debug\netcoreapp3.1\Exercício 3 - produtos.exe
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 3 - produtos\bin\Debug\netcoreapp3.1\Exercício 3 - produtos.deps.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 3 - produtos\bin\Debug\netcoreapp3.1\Exercício 3 - produtos.runtimeconfig.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 3 - produtos\bin\Debug\netcoreapp3.1\Exercício 3 - produtos.runtimeconfig.dev.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 3 - produtos\bin\Debug\netcoreapp3.1\Exercício 3 - produtos.dll
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 3 - produtos\bin\Debug\netcoreapp3.1\Exercício 3 - produtos.pdb
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 3 - produtos\obj\Debug\netcoreapp3.1\Exercício 3 - produtos.csprojAssemblyReference.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 3 - produtos\obj\Debug\netcoreapp3.1\Exercício 3 - produtos.AssemblyInfoInputs.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 3 - produtos\obj\Debug\netcoreapp3.1\Exercício 3 - produtos.AssemblyInfo.cs
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 3 - produtos\obj\Debug\netcoreapp3.1\Exercício 3 - produtos.csproj.CoreCompileInputs.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 3 - produtos\obj\Debug\netcoreapp3.1\Exercício 3 - produtos.dll
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 3 - produtos\obj\Debug\netcoreapp3.1\Exercício 3 - produtos.pdb
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 3 - produtos\obj\Debug\netcoreapp3.1\Exercício 3 - produtos.genruntimeconfig.cache
